@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "7430d84d-dd1a-4757-8fba-d2a052b54dd5",
+    "name": "Ethel Franey",
+    "phone": "289.510.4768 x07395",
+    "email": "Charley.Balistreri-Boehm@gmail.com",
+    "job": "Lead Response Representative"
+  },
+  {
+    "id": "31d36c32-7f92-4bb9-b74a-82ad1fb0383d",
+    "name": "Stephen Bednar",
+    "phone": "228.929.8414 x5526",
+    "email": "Clinton_Effertz@yahoo.com",
+    "job": "Investor Division Liaison"
+  },
+  {
+    "id": "6733538f-ac24-4479-9740-95b4deef0c33",
+    "name": "Kathleen Cormier",
+    "phone": "1-381-647-4670 x23512",
+    "email": "Pearl_Kirlin78@hotmail.com",
+    "job": "Human Integration Manager"
+  },
+  {
+    "id": "48d4a52b-829d-4d19-9383-0fedbb03ff0a",
+    "name": "Sandy Douglas",
+    "phone": "(689) 949-7570 x73612",
+    "email": "Trudie.Hamill@yahoo.com",
+    "job": "Corporate Research Designer"
+  }
+]
