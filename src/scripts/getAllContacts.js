@@ -1,7 +1,5 @@
 import { readFile } from 'node:fs/promises';
-import path from 'node:path';
-
-export const PATH_DB = path.join(process.cwd(), 'src', 'db', 'db.json');
+import { PATH_DB } from '../constants/constants.js';
 
 export const getAllContacts = async () => {
   try {

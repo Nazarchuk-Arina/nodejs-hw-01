@@ -1,7 +1,5 @@
-import path from 'node:path';
 import { readFile } from 'node:fs/promises';
-
-export const PATH_DB = path.join(process.cwd(), 'src', 'db', 'db.json');
+import { PATH_DB } from '../constants/constants.js';
 
 export const countContacts = async () => {
   try {
